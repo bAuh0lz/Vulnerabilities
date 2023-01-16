@@ -1,5 +1,6 @@
-# CVEs
-CVEs for my findings
+# Vulnerabilities
+
+The list of vulnerabilities found by me
 
 |CVE ID|CWE Name|Product|Links|
 |-|-|-|-|
