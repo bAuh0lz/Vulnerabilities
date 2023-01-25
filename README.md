@@ -5,6 +5,7 @@ The list of vulnerabilities found by me.
 <!-- | [CVE_ID](URL) | CWE_NAME | [PRODUCT_NAME](URL) | [Report](URL)| -->
 |CVE ID|CWE Name|Product|Links|
 |-|-|-|-|
+| [CVE-2023-0488](https://nvd.nist.gov/vuln/detail/CVE-2023-0488) | Cross-site Scripting (XSS) - Stored | [pyLoad](https://pyload.net/) | [Report](https://www.huntr.dev/bounties/4311d8d7-682c-4f2a-b92c-3f9f1a36255a/)|
 | [CVE-2023-0440](https://nvd.nist.gov/vuln/detail/CVE-2023-0440) | Exposure of Sensitive Information to an Unauthorized Actor | [Healthchecks](https://healthchecks.io/) | [Report](https://huntr.dev/bounties/208a096f-7986-4eed-8629-b7285348a686/)|
 |[CVE-2023-0398](https://nvd.nist.gov/vuln/detail/CVE-2023-0398)|Cross-Site Request Forgery (CSRF)|[Modoboa](https://modoboa.org/)|[Report](https://www.huntr.dev/bounties/0a852351-00ed-44d2-a650-9055b7beed58/)|
 |[CVE-2023-0297](https://nvd.nist.gov/vuln/detail/CVE-2023-0297)|Code Injection|[pyLoad](https://pyload.net/)|[Story](https://github.com/bAuh0lz/Pre-auth-RCE-in-pyLoad), [Report](https://huntr.dev/bounties/3fd606f7-83e1-4265-b083-2e1889a05e65/)|
