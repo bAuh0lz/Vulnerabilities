@@ -5,6 +5,7 @@ The list of vulnerabilities found by me.
 <!-- | [CVE_ID](URL) | CWE_NAME | [PRODUCT_NAME](URL) | [Report](URL)| -->
 |CVE ID|CWE Name|Product|Links|
 |-|-|-|-|
+| [CVE-2023-0509](https://nvd.nist.gov/vuln/detail/CVE-2023-0509) |  Improper Certificate Validation| [pyLoad](https://pyload.net/) | [Report](https://www.huntr.dev/bounties/a370e0c2-a41c-4871-ad91-bc6f31a8e839/)|
 | [CVE-2023-0488](https://nvd.nist.gov/vuln/detail/CVE-2023-0488) | Cross-site Scripting (XSS) - Stored | [pyLoad](https://pyload.net/) | [Report](https://www.huntr.dev/bounties/4311d8d7-682c-4f2a-b92c-3f9f1a36255a/)|
 | [CVE-2023-0440](https://nvd.nist.gov/vuln/detail/CVE-2023-0440) | Exposure of Sensitive Information to an Unauthorized Actor | [Healthchecks](https://healthchecks.io/) | [Report](https://huntr.dev/bounties/208a096f-7986-4eed-8629-b7285348a686/)|
 | [CVE-2023-0406](https://nvd.nist.gov/vuln/detail/CVE-2023-0406) | Cross-Site Request Forgery (CSRF)| [Modoboa](https://modoboa.org/) | [Report](https://www.huntr.dev/bounties/d7007f76-3dbc-48a7-a2fb-377040fe100c/)|
