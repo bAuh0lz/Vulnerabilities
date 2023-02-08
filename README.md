@@ -5,6 +5,7 @@ The list of vulnerabilities found by me.
 <!-- | [CVE_ID](URL) | CWE_NAME | [PRODUCT_NAME](URL) | [Report](URL)| -->
 |CVE ID|CWE Name|Product|Links|
 |-|-|-|-|
+| [CVE-2023-0737](https://nvd.nist.gov/vuln/detail/CVE-2023-0737) | Cross-Site Request Forgery (CSRF) | [wallabag](https://wallabag.org/) | [Report](https://www.huntr.dev/bounties/4ba20fe7-4061-4dfb-ab2f-ecaf110641a5/)|
 | [CVE-2023-0610](https://nvd.nist.gov/vuln/detail/CVE-2023-0610) | Improper Authorization | [wallabag](https://wallabag.org/) | [Report](https://huntr.dev/bounties/8fdd9b31-d89b-4bbe-9557-20b960faf926/)|
 | [CVE-2023-0609](https://nvd.nist.gov/vuln/detail/CVE-2023-0609) | Improper Authorization | [wallabag](https://wallabag.org/) | [Report](https://huntr.dev/bounties/3adef66f-fc86-4e6d-a540-2ffa59342ff0/)|
 | [CVE-2023-0509](https://nvd.nist.gov/vuln/detail/CVE-2023-0509) |  Improper Certificate Validation| [pyLoad](https://pyload.net/) | [Report](https://www.huntr.dev/bounties/a370e0c2-a41c-4871-ad91-bc6f31a8e839/)|
