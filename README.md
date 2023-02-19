@@ -5,6 +5,8 @@ The list of vulnerabilities found by me.
 <!-- | [CVE_ID](URL) | CWE_NAME | [PRODUCT_NAME](URL) | [Report](URL)| -->
 |CVE ID|CWE Name|Product|Links|
 |-|-|-|-|
+| [CVE-2023-0914](https://nvd.nist.gov/vuln/detail/CVE-2023-0914) | Improper Authorization | [Pixelfed](https://pixelfed.org/) | [Report](https://www.huntr.dev/bounties/54d5fd76-e038-4eda-9e03-d5e95e09c0ec/)|
+| [CVE-2023-0901](https://nvd.nist.gov/vuln/detail/CVE-2023-0901) | Exposure of Sensitive Information to an Unauthorized Actor | [Pixelfed](https://pixelfed.org/) | [Report](https://www.huntr.dev/bounties/0327b1b2-6e7c-4154-a307-15f236571010/)|
 | [CVE-2023-0737](https://nvd.nist.gov/vuln/detail/CVE-2023-0737) | Cross-Site Request Forgery (CSRF) | [wallabag](https://wallabag.org/) | [Report](https://www.huntr.dev/bounties/4ba20fe7-4061-4dfb-ab2f-ecaf110641a5/)|
 | [CVE-2023-0610](https://nvd.nist.gov/vuln/detail/CVE-2023-0610) | Improper Authorization | [wallabag](https://wallabag.org/) | [Report](https://huntr.dev/bounties/8fdd9b31-d89b-4bbe-9557-20b960faf926/)|
 | [CVE-2023-0609](https://nvd.nist.gov/vuln/detail/CVE-2023-0609) | Improper Authorization | [wallabag](https://wallabag.org/) | [Report](https://huntr.dev/bounties/3adef66f-fc86-4e6d-a540-2ffa59342ff0/)|
